@@ -1,4 +1,4 @@
-# NetMHCpan–IEDB Evaluation
+# NetMHCpan IEDB Evaluation
 
 An evaluation of NetMHCpan 4.1 binding affinity predictions against experimental peptide–MHC binding data from the Immune Epitope Database (IEDB).
 
